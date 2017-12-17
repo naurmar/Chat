@@ -1,0 +1,14 @@
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\bin\Debug\ChatConfiguration.dll
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\bin\Debug\ChatConfiguration.pdb
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\bin\Debug\ModelsLibrary.dll
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\bin\Debug\ModelsLibrary.pdb
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.dll
+C:\Users\Nataha\Desktop\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.pdb
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\bin\Debug\ChatConfiguration.dll
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\bin\Debug\ChatConfiguration.pdb
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\bin\Debug\ModelsLibrary.dll
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\bin\Debug\ModelsLibrary.pdb
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.csprojResolveAssemblyReference.cache
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.dll
+E:\Module_08_ADO.NET\Chat_18_06\ChatConfiguration\obj\Debug\ChatConfiguration.pdb

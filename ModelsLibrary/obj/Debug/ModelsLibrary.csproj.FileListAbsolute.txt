@@ -1,0 +1,10 @@
+C:\Users\Nataha\Desktop\Chat_18_06\ModelsLibrary\bin\Debug\ModelsLibrary.dll
+C:\Users\Nataha\Desktop\Chat_18_06\ModelsLibrary\bin\Debug\ModelsLibrary.pdb
+C:\Users\Nataha\Desktop\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nataha\Desktop\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.dll
+C:\Users\Nataha\Desktop\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.pdb
+E:\Module_08_ADO.NET\Chat_18_06\ModelsLibrary\bin\Debug\ModelsLibrary.dll
+E:\Module_08_ADO.NET\Chat_18_06\ModelsLibrary\bin\Debug\ModelsLibrary.pdb
+E:\Module_08_ADO.NET\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.csprojResolveAssemblyReference.cache
+E:\Module_08_ADO.NET\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.dll
+E:\Module_08_ADO.NET\Chat_18_06\ModelsLibrary\obj\Debug\ModelsLibrary.pdb
